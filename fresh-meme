@@ -1,5 +1,11 @@
 #!/bin/bash
 
-echo "GET HACKED LOL" >&2
-
-curl parrot.live
+echo "  ___
+< GET HACKED LOL >
+  ---
+         \   ^__^ 
+          \  (oo)\_______
+             (__)\       )\/\\
+                 ||----w |
+                 ||     ||
+    "
